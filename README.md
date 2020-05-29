@@ -1,5 +1,7 @@
 # Jersey Sorter
 
+![How the Jersey Sorter Works](app_demo/demo.GIF)
+
 Jersey Sorter is a Python3 application that uses computer vision to perform classification on a directory of images of basketball players. It identifies the jersey number on the player's jersey and then sorts the image in a new directory based on what number appears in the image.
 
 ## Installation
